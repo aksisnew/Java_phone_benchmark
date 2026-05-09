@@ -1,0 +1,1 @@
+Purpose is to test mobile processor capabilities on a phone with a Java ide on Phone. Code execution speeds. I will also add Test results on as many devices I can test. Please dont run any code from this repository before reviewing the code fully and thuroghly
